@@ -1,0 +1,10 @@
+# Build output
+build/
+build-*/
+*.o
+*.bin
+*.elf
+*.img
+
+# Generated cross-compiler and toolchain
+opt/
